@@ -53,3 +53,12 @@ Contributions are welcome! Please follow the steps below to contribute to this p
    git checkout -b feature-or-bugfix-branch
    git commit -m "Your descriptive commit message"
    git push origin feature-or-bugfix-branch
+
+## Docker Support
+
+No need to worry about setting up dependencies or configurations! We provide a Dockerfile for easy containerization of the project.
+
+1. Ensure Docker is installed on your machine. If not, download and install it from [Docker's official website](https://www.docker.com/get-started).
+2. Now you can enjoy the project without worrying about the setup in your local environment!
+
+
